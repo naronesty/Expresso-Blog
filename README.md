@@ -1,3 +1,16 @@
+# Expresso Blog Forked by *The Sad Hatters*
+
+*The Sad Hatters*: Noakai Aronesty, Annabel Zhang  
+SoftDev pd2  
+K20 -- Throw Some Forking STUYLE On It  
+2021-11-24
+
+### Notes
+- css folder inside static folder is cool. There aren't any other static files, but it's still a good practice
+- The website works well without css, though the way in which blogs are created, in that you create a blog without creating the first entry, is strange.
+- Without css, the links and texts are smaller and closer together, but usable. The logo is also enormous.
+- We added our own css file and applied it to each html file for big improvements all around.
+
 # Expresso Blog by Espresso
 **Roster & Roles:**<br/>
 *Daniel (Project Manager):* Managed front-end development (templating & styling) & worked on backend (routing, login & register, listing blog posts).<br/>
@@ -39,16 +52,3 @@ Run __init__.py
 ```bash
 python3 __init__.py
 ```
-
-
-# Edits and CSS Check
-
-### The Sad Hatters
-- Noakai Aronesty
-- Annabel Zhang
-
-### Notes
-- css folder inside static folder is cool. There aren't any other static files, but it's still a good practice
-- The website works very well without css, though the way in which blogs are created, in that you create a blog without creating the first entry, is strange.
-- Without css, the links and texts are smaller and closer together, but usable. The logo is also enormous.
-- We added our own css file and applied it to each html file. Big improvements all around.
